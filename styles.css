@@ -47,4 +47,20 @@ button {
 button:hover {
     background-color: #45a049;
 }
+/* Estilos para el botón de olvidé mi contraseña */
+#forgotPasswordBtn {
+    width: 100%;
+    padding: 10px;
+    background-color: transparent;
+    color: #4CAF50;
+    border: 1px solid #4CAF50;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+#forgotPasswordBtn:hover {
+    background-color: #f1f1f1;
+}
 
